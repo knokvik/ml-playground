@@ -8,3 +8,9 @@
 - **Location:** `/lang/main.py && /lang/oop.py`
 
 ---
+
+`📅 2026-01-02`
+- **Learned:** Numpy Basics and handling of data and some regression basics. 
+- **Location:** `/numpy/main.ipynb && /numpy/problems.ipynb`
+
+---
