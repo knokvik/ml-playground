@@ -2,6 +2,18 @@
 
 ![Logs](https://img.shields.io/badge/Logs-learning-brightgreen)
 
+`📅 2026-01-07`
+- **Learned:** Data Pre-Processing & Plotting 
+- **Location:** `/seaborn/project.ipynb &  /seaborn/ipl.csv`
+
+---
+
+`📅 2026-01-06`
+- **Learned:** Seaborn and basic graphsss 
+- **Location:** `/seaborn/seaborn.ipynb & /seaborn/data.csv`
+
+---
+
 `📅 2026-01-05`
 - **Learned:** MATPLOT 
 - **Location:** `/matplot/matplot.ipynb`
