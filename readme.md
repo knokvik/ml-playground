@@ -2,6 +2,12 @@
 
 ![Logs](https://img.shields.io/badge/Logs-learning-brightgreen)
 
+`📅 2026-01-04`
+- **Learned:** Advanced Pandas [ Pivot Table and CrossTab ]
+- **Location:** `/pandas/pandas.ipynb`
+
+---
+
 `📅 2026-01-03`
 - **Learned:** Pandas Basics and Operations on data/
 - **Location:** `/pandas/main.ipynb`
