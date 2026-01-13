@@ -2,6 +2,18 @@
 
 ![Logs](https://img.shields.io/badge/Logs-learning-brightgreen)
 
+`📅 2026-01-11`
+- **Learned:** Implmented Data Pre-processing / Cleaning , Feature Extraction & Scaling
+- **Location:** `/ml-series/insurance.ipynb & /ml-series/insurance.csv`
+
+---
+
+`📅 2026-01-8`
+- **Learned:** Solved some problems to take a brief toward properties and functions in tools.
+- **Location:** `/problems/main.ipynb`
+
+---
+
 `📅 2026-01-07`
 - **Learned:** Data Pre-Processing & Plotting 
 - **Location:** `/seaborn/project.ipynb &  /seaborn/ipl.csv`
