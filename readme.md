@@ -2,6 +2,8 @@
 
 ![Logs](https://img.shields.io/badge/Logs-learning-brightgreen)
 
+[📘 Statistics Handbook](stats-probability/readme.md)  
+
 `📅 2026-01-11`
 - **Learned:** Implmented Data Pre-processing / Cleaning , Feature Extraction & Scaling
 - **Location:** `/ml-series/insurance.ipynb & /ml-series/insurance.csv`
