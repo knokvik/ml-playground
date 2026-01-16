@@ -4,6 +4,13 @@
 
 [📘 Statistics Handbook](statistics/readme.md)  
 
+`📅 2026-01-16`
+- **Learned:** Learned Statistics & Probability 
+- **Location:** `/statistics/readme.md & /statistics/outliers.ipynb`
+
+---
+
+
 `📅 2026-01-11`
 - **Learned:** Implmented Data Pre-processing / Cleaning , Feature Extraction & Scaling
 - **Location:** `/ml-series/insurance.ipynb & /ml-series/insurance.csv`
