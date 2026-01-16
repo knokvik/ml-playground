@@ -2,7 +2,7 @@
 
 ![Logs](https://img.shields.io/badge/Logs-learning-brightgreen)
 
-[📘 Statistics Handbook](stats-probability/readme.md)  
+[📘 Statistics Handbook](statistics/readme.md)  
 
 `📅 2026-01-11`
 - **Learned:** Implmented Data Pre-processing / Cleaning , Feature Extraction & Scaling
