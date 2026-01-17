@@ -4,7 +4,13 @@
 
 [📘 Statistics Handbook](statistics/readme.md)  
 
-`📅 2026-01-15`
+`📅 2026-01-17`
+- **Learned:** Completed Statistics
+- **Location:** `/statistics/*`
+
+---
+
+`📅 2026-01-16`
 - **Learned:** Z-Test & T-Test Implemented 
 - **Location:** `/statistics/z-test.ipynb & /statistics/t-test.ipynb`
 
